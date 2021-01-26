@@ -1,25 +1,6 @@
 compose-etcd
 ============
 
-Had a hard time finding one of these.
-
-Prerequisites
--------------
-
-A MacOS installed Docker requires the following
-
-Update hosts file with:
-
-    172.16.238.11 etcd-0
-    172.16.238.12 etcd-1
-    172.16.238.13 etcd-2
-
-Add aliases
-
-    $ sudo ifconfig lo0 alias 172.16.238.11
-    $ sudo ifconfig lo0 alias 172.16.238.12
-    $ sudo ifconfig lo0 alias 172.16.238.13
-
 Usage
 -----
 
