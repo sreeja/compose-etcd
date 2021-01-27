@@ -11,8 +11,6 @@ Update hosts file with:
     172.16.238.11 etcd-0
     172.16.238.12 etcd-1
     172.16.238.13 etcd-2
-    172.16.238.14 etcd-3
-    172.16.238.15 etcd-4
 
 Usage
 -----
